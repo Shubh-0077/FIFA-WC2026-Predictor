@@ -1,7 +1,7 @@
 # ⚽ FIFA World Cup 2026 Prediction System
 
 <p align="center">
-  <img width="1456" height="720" alt="Gemini_Generated_Image_ytet5iytet5iytet" src="https://github.com/user-attachments/assets/a6880ab3-b5c8-496d-b7a9-0ad7d5ae426e" />
+  <img width="980" height="547" alt="FIFA World Cup 2026 Prediction" src="https://github.com/user-attachments/assets/8f53897d-2789-4909-85cc-60ca97c58419" />
 </p>
 
 <p align="center">
