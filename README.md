@@ -15,7 +15,7 @@
 
 ---
 
-## Executive Summary
+## Summary
 
 A machine learning-powered tournament simulation platform that predicts the FIFA World Cup 2026. The application uniquely **combines human football knowledge with automated ML prediction** — users control the group stage outcomes, and a trained Random Forest model automatically simulates the entire knockout bracket from Round of 32 through to the Final.
 
@@ -23,7 +23,7 @@ Built on 964 historical World Cup matches (1930–2022) and current FIFA ranking
 
 ---
 
-## Business Problem
+## Goal
 
 Predicting a 48-team tournament is complex because:
 
