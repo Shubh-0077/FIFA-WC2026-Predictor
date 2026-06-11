@@ -1,7 +1,7 @@
 # ⚽ FIFA World Cup 2026 Prediction System
 
 <p align="center">
-  <img width="980" height="547" alt="FIFA World Cup 2026 Prediction" src="https://github.com/user-attachments/assets/8f53897d-2789-4909-85cc-60ca97c58419" />
+  <img width="1600" height="900" alt="FIFA World Cup 2026 Prediction (1)" src="https://github.com/user-attachments/assets/ed586a06-2cd0-4699-94cc-2e67b57d66b0" />
 </p>
 
 <p align="center">
@@ -287,16 +287,6 @@ fifa-wc26-predictor/
 │
 ├── utils/                         # Shared utilities
 │   └── data_loader.py
-│
-├── images/                        # README visuals and screenshots
-│   ├── banner.png
-│   ├── app_demo.png
-│   ├── bracket_view.png
-│   ├── champion_card.png
-│   ├── confusion_matrix.png
-│   ├── feature_importance.png
-│   ├── eda_win_rates.png
-│   └── rank_vs_outcome.png
 │
 ├── app.py                         # Streamlit entry point
 ├── requirements.txt
