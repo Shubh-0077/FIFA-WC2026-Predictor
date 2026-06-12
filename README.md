@@ -46,7 +46,10 @@ Predicting a 48-team tournament is complex because:
 5. Demonstrate how ML can be embedded within a decision-support system
 
 ---
+## Video 
 
+### Link : https://www.linkedin.com/posts/shubhammalkar_fifaworldcup2026-datascience-machinelearning-ugcPost-7470786993082396672-KZpu/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEzs4csBDPqcmkugEDWgFM5X7r_ZV2YmCAo 
+---
 ## Dataset Overview
 
 | Dataset | Records | Description |
